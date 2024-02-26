@@ -63,7 +63,7 @@ ul li{
     list-style-type: none;
 }
 .banner{
-    background-image: url(images/banner3.jpg);
+    background-image: url(banner3.jpg);
     height: 80vh;
     background-size: cover;
     position: relative;
